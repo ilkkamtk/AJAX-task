@@ -57,7 +57,7 @@ _index.html_
 Make a simple web app, that asks user for a name of a TV show and then fetches the information from TVMaze API and displays the results on a web page. 
    * API and 'show' endpoint documentation: [TVMaze API](http://www.tvmaze.com/api#show-search) 
    * Requirements:
-      * Step 1: Log the search result to console (3p)
+      * Step 1: Log the search result to console
       * Step 2: Print the information of the first show of the result on the web page
          * print these properties: name, link to homepage (url), medium size image and summary
       * Step 3: Print the information of all shows in the result on the web page
