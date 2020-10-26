@@ -59,9 +59,9 @@ Make a simple web app, that asks user for a name of a TV show and then fetches t
    * Requirements:
       * Step 1: Log the search result to console
       * Step 2: Print the information of the first show of the result on the web page
-         * print these properties: name, link to homepage (url), medium size image and summary
+         * print these properties: name, link to homepage (officialSite), medium size image and summary
       * Step 3: Print the information of all shows in the result on the web page
-         * print these properties: name, link to homepage (url), medium size image, summary and genres
+         * print these properties: name, link to homepage (officialSite), medium size image, summary and genres
          
 Instructions:     
    * First make a valid HTML-page with a form that has an input field and a button: 
