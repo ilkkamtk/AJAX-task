@@ -2,6 +2,7 @@
 
 ### Study
 1. [AJAX](https://www.w3schools.com/xml/ajax_intro.asp)
+1. [Pomise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 1. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 1. [async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) 
 1. [REST API](https://restfulapi.net/)
