@@ -91,7 +91,7 @@ Instructions:
    <form id="search-form" action="https://api.tvmaze.com/search/shows">
     <input type="text" name="search-field">
     <button type="submit">Go</button>
-</form>
+   </form>
    ```
 * Add a submit event to the form element to initiate the search.
 * You need to get the value of the 'searh-field', which is then sent to the API with fetch.
