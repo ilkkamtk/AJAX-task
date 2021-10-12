@@ -2,11 +2,19 @@
 
 ### Study
 1. [AJAX](https://www.w3schools.com/xml/ajax_intro.asp)
+<<<<<<< HEAD
 2. [Promises](https://dev.to/rjitsu/the-only-guide-you-ll-ever-need-to-understand-promises-and-async-await-24cd)
 3. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 4. [async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) 
 5. [REST API](https://restfulapi.net/)
 6. [JSON](https://www.w3schools.com/js/js_json_intro.asp)
+=======
+1. [Pomise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+1. [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+1. [async/await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) 
+1. [REST API](https://restfulapi.net/)
+1. [JSON](https://www.w3schools.com/js/js_json_intro.asp)
+>>>>>>> fd72e583cf4db202f69dfa196b56808f4f01d0cc
 ### Example
 _pics.json_
 ```json
@@ -83,7 +91,11 @@ Make a simple web app, that asks user for a name of a TV show and then fetches t
       * Step 2: Print the information of the first show of the result on the web page
          * print these properties: name, link to homepage (officialSite), medium size image and summary
       * Step 3: Print the information of all shows in the result on the web page
+<<<<<<< HEAD
          * print these properties: name, link to homepage (officialSite), medium size image, summary and genres separated with | (<-that is a pole)
+=======
+         * print these properties: name, link to homepage (officialSite), medium size image, summary and genres
+>>>>>>> fd72e583cf4db202f69dfa196b56808f4f01d0cc
          
 Instructions:     
    * First make a valid HTML-page with a form that has an input field and a button: 
